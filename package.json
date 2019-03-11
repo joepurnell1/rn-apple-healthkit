@@ -1,12 +1,39 @@
 {
-  "name": "rn-apple-healthkit",
-  "version": "0.6.5",
-  "description": "A React Native package for interacting with Apple HealthKit",
-  "main": "index.js",
-  "repository": {
+  "_from": "git+https://github.com/joepurnell1/rn-apple-healthkit.git",
+  "_id": "rn-apple-healthkit@0.6.5",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/rn-apple-healthkit",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "git+https://github.com/terrillo/rn-apple-healthkit.git"
+    "raw": "rn-apple-healthkit@git+https://github.com/joepurnell1/rn-apple-healthkit.git",
+    "name": "rn-apple-healthkit",
+    "escapedName": "rn-apple-healthkit",
+    "rawSpec": "git+https://github.com/joepurnell1/rn-apple-healthkit.git",
+    "saveSpec": "git+https://github.com/joepurnell1/rn-apple-healthkit.git",
+    "fetchSpec": "https://github.com/joepurnell1/rn-apple-healthkit.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/joepurnell1/rn-apple-healthkit.git#8c189e9c948eed594788b51bd640d17b57be6e00",
+  "_spec": "rn-apple-healthkit@git+https://github.com/joepurnell1/rn-apple-healthkit.git",
+  "_where": "/Users/josephpurnell/Development/healthtrackingios",
+  "author": {
+    "name": "Terrillo Walls"
+  },
+  "bugs": {
+    "url": "https://github.com/terrillo/rn-apple-healthkit/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A React Native package for interacting with Apple HealthKit",
+  "devDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "homepage": "https://github.com/terrillo/rn-apple-healthkit",
   "keywords": [
     "Apple",
     "health-kit",
@@ -17,16 +44,15 @@
     "native",
     "ios"
   ],
-  "bugs": {
-    "url": "https://github.com/terrillo/rn-apple-healthkit/issues"
-  },
-  "homepage": "https://github.com/terrillo/rn-apple-healthkit",
-  "author": "Terrillo Walls",
   "license": "MIT",
-  "devDependencies": {
-    "react-native": ">=0.40.0"
-  },
+  "main": "index.js",
+  "name": "rn-apple-healthkit",
   "peerDependencies": {
     "react-native": ">=0.40.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terrillo/rn-apple-healthkit.git"
+  },
+  "version": "0.6.5"
 }
